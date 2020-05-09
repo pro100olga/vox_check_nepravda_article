@@ -1,6 +1,7 @@
-# vox_check_nepravda_article
+# Vox check: predicting author of citation
 
-Predicting author of citation
+Predicting author of citation (text classification) based on this dataset: https://nepravda.org/#/
 
+Dataset contains citations of Ukrainian politicians
 
-Data source: https://nepravda.org/#/
+Code was used for writing this article (Russian): https://habr.com/ru/post/443264/
